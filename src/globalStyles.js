@@ -16,7 +16,7 @@ import { createGlobalStyle } from "styled-components";
     figure, figcaption, footer, header, hgroup, 
     menu, nav, output, ruby, section, summary,
     time, mark, audio, video {
-        margin: 0;
+        margin: 0.1;
         padding: 0;
         border: 0;
         font-size: 100%;
