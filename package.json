@@ -11,12 +11,7 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-<<<<<<< HEAD
     "react-dom": "^18.2.0"
-=======
-    "react-dom": "^18.2.0",
-    "styled-components": "^6.0.0-rc.1"
->>>>>>> b4da29c (teste github)
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
@@ -27,14 +22,5 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.3.4",
     "vite": "^4.3.2"
-<<<<<<< HEAD
   }
-=======
-  },
-  "main": "vite.config.js",
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
->>>>>>> b4da29c (teste github)
 }
