@@ -70,6 +70,7 @@ const RecalComponent = styled.div`
         justify-content: center;
         margin-bottom: 10px;
         gap: 8px;
+        
     }
 
     .didnt-remember-btn,.almost-remember-btn,.zap-btn{
